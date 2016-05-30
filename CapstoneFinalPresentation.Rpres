@@ -2,7 +2,7 @@ Coursera: Data Science
 =============================================
 A presentation on Capstone Project "PredictNextWord"
 
-By Gyaan GM [May 1, 2016]
+By Spriha Bhattarai [May 1, 2016]
 
 Introduction
 ========================================================
@@ -42,7 +42,7 @@ Shiny App
 
 <small> Then a Shiny (http://shiny.rstudio.com/) app that accepts a 
 phrase as input, suggests word completion from the unigrams, and predicts the most likely next word based 
-on the linear interpolation of trigrams, bigrams, and unigrams is developed. The web-based application can be found <a href="https://gkgm.shinyapps.io/PredictNextWord/"> here</a> and the source files for this project can be found <a href="https://github.com/gkgm/Capstone_Milestone_Project"> here</a>. App user interface looks like this </small>
+on the linear interpolation of trigrams, bigrams, and unigrams is developed. The web-based application can be found <a href="https://gkgm.shinyapps.io/PredictNextWord/"> here</a> and the source files for this project can be found <a href="https://github.com/spbhattarai/Capstone_Milestone_Project"> here</a>. App user interface looks like this </small>
 
 ![alt text](Capstone.png)
 
